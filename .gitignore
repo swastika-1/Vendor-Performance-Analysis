@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs/
+*.log
+*.db
+venv/
+env/
+data/sales.csv
+data/purchases.csv
